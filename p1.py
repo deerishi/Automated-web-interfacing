@@ -20,4 +20,5 @@ try:
 	
 except KeyboardInterrupt:
     driver.quit()
+    pass
 
